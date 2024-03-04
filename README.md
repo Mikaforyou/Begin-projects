@@ -24,7 +24,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Live Site URL: [](https://mikaforyou.github.io/Begin-projects/)
+- Live Site URL: [https://mikaforyou.github.io/Begin-projects/](https://mikaforyou.github.io/Begin-projects/)
 
 ## My process
 
