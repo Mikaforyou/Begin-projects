@@ -49,7 +49,5 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [MDN web docs](https://developer.mozilla.org/en-US/) - Really good source for documentation 
 
 ## Author
-
-- Website - [Mika](https://mikaforyou.github.io/Begin-projects/)
 - Twitter - [@Mika_onTop](https://www.twitter.com/yourusername)
 
